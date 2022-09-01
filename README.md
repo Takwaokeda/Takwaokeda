@@ -1,3 +1,5 @@
+![](https://visitor-badge.glitch.me/badge?page_id=tarunawh.tarunawh)
+<h2>Hello there!👋 I'm Takwa  </a></h2>
 <p> I'am currently a second year Geophysics student at Gadjah Mada University and currently trying to get into programming. So, wish me luck! ✨
 <p align="center">
 <br/>
@@ -5,6 +7,8 @@
 <a href="https://www.instagram.com/uzumakidtakwa/">
   <img alt="guilyx's Instagram" width="50px" src="https://user-images.githubusercontent.com/43545812/144035088-0dfb165f-8fe0-4d13-896c-876c29d2b128.png" />
 </a>
+
+<h2>⚡️ Facts about me </h2>
 
 - 👋 Hi, I’m Takwa Okeda Palit, you can call me Takwa
 - 👀 I’m interested on Geophysics
