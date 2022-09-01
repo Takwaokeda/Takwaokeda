@@ -20,6 +20,10 @@
 - 🏫 I'm study in Gadjah Mada University Yogyakarta
 - 📫 How to reach me takwaokeda228@gmail.com, you can chat or send email to my email
 
+### 🚀 My Github Stats
+![](https://github-readme-stats.vercel.app/api?username=erfinap&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=erfinap&theme=midnight-purple&hide_border=false)<br/>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
