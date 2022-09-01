@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<img width="50%" height="auto"https://giffiles.alphacoders.com/752/75245.gif"/></a>
+<img width="50%" height="auto" src="https://kotjienkterbang.files.wordpress.com/2017/03/5cm-per-second.gif?w=829" height="100px"/></a>
 <h2>Hello there!👋 I'm Takwa  </a></h2>
 <p> I'am currently a second year Geophysics student at Gadjah Mada University and currently trying to get into programming. So, wish me luck! ✨
 <p align="center">
