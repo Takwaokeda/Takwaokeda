@@ -7,7 +7,9 @@
 <p align="center">
 <br/>
 </a>
+
 ## 💬 Connect with me
+<p align="center">
 <a href="https://www.instagram.com/uzumakidtakwa/">
   <img alt="guilyx's Instagram" width="50px" src="https://user-images.githubusercontent.com/43545812/144035088-0dfb165f-8fe0-4d13-896c-876c29d2b128.png" />
 </a>
