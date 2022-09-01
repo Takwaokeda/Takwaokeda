@@ -1,6 +1,5 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=Takwaokeda.Takwaokeda)
 
-
 <p align="center">
 <img width="50%" height="auto" src="https://kotjienkterbang.files.wordpress.com/2017/03/5cm-per-second.gif?w=829" height="100px"/></a>
 <h2>Hello there!👋 I'm Takwa  </a></h2>
