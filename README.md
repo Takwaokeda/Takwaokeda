@@ -1,4 +1,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=Takwaokeda.Takwaokeda)
+
+<p align="center">
+<img width="50%" height="auto"hthttps://i.pinimg.com/originals/da/26/bd/da26bd84e463c720df970a8a3c4d4a15.gif"/></a>
 <h2>Hello there!👋 I'm Takwa  </a></h2>
 <p> I'am currently a second year Geophysics student at Gadjah Mada University and currently trying to get into programming. So, wish me luck! ✨
 <p align="center">
@@ -16,6 +19,10 @@
 - 🏡 I’m from nation capital or Jakarta City
 - 🏫 I'm study in Gadjah Mada University Yogyakarta
 - 📫 How to reach me takwaokeda228@gmail.com, you can chat or send email to my email
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+
 
 <!---
 My name is Takwa Okeda Palit from Jakarta City. I was born and raised there. I'm currently studying at Gadjah Mada University since 2021.then majoring in geophysics.    
