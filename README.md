@@ -1,4 +1,4 @@
-![](https://visitor-badge.glitch.me/badge?page_id=tarunawh.tarunawh)
+![](https://visitor-badge.glitch.me/badge?page_id=Takwaokeda.Takwaokeda)
 <h2>Hello there!👋 I'm Takwa  </a></h2>
 <p> I'am currently a second year Geophysics student at Gadjah Mada University and currently trying to get into programming. So, wish me luck! ✨
 <p align="center">
