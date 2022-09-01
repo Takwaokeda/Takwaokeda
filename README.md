@@ -1,7 +1,8 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=Takwaokeda.Takwaokeda)
 
+
 <p align="center">
-<img width="50%" height="auto"hthttps://i.pinimg.com/originals/da/26/bd/da26bd84e463c720df970a8a3c4d4a15.gif"/></a>
+<img width="50%" height="auto"https://giffiles.alphacoders.com/752/75245.gif"/></a>
 <h2>Hello there!👋 I'm Takwa  </a></h2>
 <p> I'am currently a second year Geophysics student at Gadjah Mada University and currently trying to get into programming. So, wish me luck! ✨
 <p align="center">
