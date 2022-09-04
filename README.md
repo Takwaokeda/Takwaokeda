@@ -2,7 +2,8 @@
 
 <p align="center">
 <img width="50%" height="auto" src="https://kotjienkterbang.files.wordpress.com/2017/03/5cm-per-second.gif?w=829" height="100px"/></a>
-<h2>Hello there!👋 I'm Takwa  </a></h2>
+<h2>Hello there! I'm Takwa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 <p> I'am currently a second year Geophysics student at Gadjah Mada University and currently trying to get into programming. So, wish me luck! ✨
 <p align="center">
 <br/>
@@ -10,9 +11,9 @@
 
 ## 💬 Connect with me
 <p align="center">
-<a href="https://www.instagram.com/uzumakidtakwa/">
-  <img alt="guilyx's Instagram" width="50px" src="https://user-images.githubusercontent.com/43545812/144035088-0dfb165f-8fe0-4d13-896c-876c29d2b128.png" />
-</a>
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/uzumakidtakwa)
+[![Gmail Badge](https://img.shields.io/badge/-takwaokeda228@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:takwaokeda228@gmail.com)](mailto:takwaokeda228@gmail.com)
 
 <h2>⚡️ Facts about me </h2>
 
@@ -27,8 +28,15 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
 
 ### 🚀 My Github Stats
-![](https://github-readme-stats.vercel.app/api?username=erfinap&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=erfinap&theme=midnight-purple&hide_border=false)<br/>
+
+<h2 align="center">Statistics 📈 </h2>
+<p align="center">
+<img width="400px" src="https://github-readme-stats.vercel.app/api?username=Takwaokeda&show_icons=true&theme=tokyonight" />     
+<img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=Takwaokeda&show_icons=true&theme=tokyonight" />
+<p/>
+<h2 align="center">Contribution Graph 📊</h2>
+<img src="https://activity-graph.herokuapp.com/graph?username=Takwaokeda&theme=chartreuse-dark" />  
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
