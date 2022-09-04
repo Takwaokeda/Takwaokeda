@@ -23,6 +23,9 @@
 - 🏫 I'm study in Gadjah Mada University Yogyakarta
 - 📫 How to reach me takwaokeda228@gmail.com, you can chat or send email to my email
 
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
+
 ### 🚀 My Github Stats
 ![](https://github-readme-stats.vercel.app/api?username=erfinap&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=erfinap&theme=midnight-purple&hide_border=false)<br/>
